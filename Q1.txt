@@ -1,0 +1,13 @@
+1. Unique Employee List (HashSet, Comparable)
+
+Scenario:
+Your company needs a system to store employee records. Employees with duplicate
+ employeeId should not be added. Also, they should be stored in sorted order based on employeeId.
+
+Tasks:
+	•	Use a HashSet to prevent duplicates.
+	•	Implement Comparable<Employee> to sort employees based on employeeId.
+	•	Display employees in ascending order of employeeId.
+
+Question:
+How will you ensure no duplicate employees are added while keeping the list sorted?
